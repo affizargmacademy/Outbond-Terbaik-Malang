@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://outbound-tnipolri.vercel.app/sitemap.xml

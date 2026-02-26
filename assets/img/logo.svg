@@ -1,0 +1,8 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="60" rx="10" fill="white" fill-opacity="0.01"/>
+  <path d="M15 30C15 21.7157 21.7157 15 30 15C38.2843 15 45 21.7157 45 30C45 38.2843 38.2843 45 30 45C21.7157 45 15 38.2843 15 30Z" fill="#059669"/>
+  <path d="M30 20L36 32H24L30 20Z" fill="white"/>
+  <path d="M22 34L30 24L38 34H22Z" fill="white" fill-opacity="0.8"/>
+  <text x="55" y="32" font-family="Outfit, sans-serif" font-weight="800" font-size="20" fill="#0f172a">GEMILANG</text>
+  <text x="55" y="48" font-family="Outfit, sans-serif" font-weight="600" font-size="14" fill="#059669">KATUN OUTBOUND</text>
+</svg>
